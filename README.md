@@ -1,3 +1,4 @@
+[![BitPulumi](https://img.shields.io/badge/Bit-@bitpulumi-2C00C3)](https://bit.cloud/bitpulumi)
 # Bit with Pulumi
 
 Install Pulumi
