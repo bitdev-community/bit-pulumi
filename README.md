@@ -1,4 +1,7 @@
 [![BitPulumi](https://img.shields.io/badge/Bit-@bitpulumi-2C00C3)](https://bit.cloud/bitpulumi)
+[![Scope AWS Demo](https://img.shields.io/badge/Scope-AWS_Demo_(4)-820596)](https://bit.cloud/bitpulumi/awsdemo)
+[![Scope Development](https://img.shields.io/badge/Scope-Development_(1)-820596)](https://bit.cloud/bitpulumi/development)
+[![Scope Apps](https://img.shields.io/badge/Scope-Apps_(1)-820596)](https://bit.cloud/bitpulumi/apps)
 # Bit with Pulumi
 
 Install Pulumi
