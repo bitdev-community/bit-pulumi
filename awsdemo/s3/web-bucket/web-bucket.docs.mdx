@@ -1,0 +1,13 @@
+---
+labels: ['pulumi']
+description: 'A s3 bucket pulumi component'
+---
+
+/**
+ * Function to create a new AWS S3 Bucket
+ *
+ * @param bucketName - The name to assign to the newly created S3 Bucket. This name must be unique across AWS.
+ * 
+ * @returns The created S3 Bucket Pulumi object.
+ */
+function webBucket(bucketName: string): aws.s3.Bucket;

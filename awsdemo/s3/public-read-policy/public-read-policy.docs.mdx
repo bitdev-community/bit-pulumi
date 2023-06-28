@@ -1,0 +1,13 @@
+---
+labels: ['pulumi']
+description: 'A s3 public read access policy'
+---
+
+/**
+ * Function to create a S3 public read access policy
+ *
+ * @param bucketName: The name of explicit bucket name for the ARN
+ *
+ * @returns The created S3 public read access policy Pulumi object.
+ */
+function webBucketObject(webBucket): BucketObject;
